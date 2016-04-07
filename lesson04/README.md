@@ -5,9 +5,10 @@
 - Continue [Intro Python][1]
 - Start [Intro NumPy][2]
 
-[1]: ../notebooks/intro-python.ipynb
-[2]: ../notebooks/intro-numpy.ipynb
-
 ## Homework
 
-- homework1.ipynb in the homework folder
+- Complete [homework1.ipynb][3] in the homework folder. Due by lesson 6.
+
+[1]: ../notebooks/intro-python.ipynb
+[2]: ../notebooks/intro-numpy.ipynb
+[3]: ../homework/homework1.ipynb

@@ -11,6 +11,10 @@ Please help us improve the class by filling out exit tickets after each lesson.
 
 http://goo.gl/forms/85T0wDN22a
 
+#### Homework Submission
+
+http://goo.gl/forms/OvpmnpvOPM
+
 #### Lesson Schedule
 
 |Class                  |Day|Date     |Lesson                                                          |
@@ -20,7 +24,7 @@ http://goo.gl/forms/85T0wDN22a
 | [Lesson 3](./lesson03)| M |3/28/2016|Python|
 | [Lesson 4](./lesson04)| W |3/30/2016|Python, Intro Numpy|
 | [Lesson 5](./lesson05)| M | 4/4/2016|Numpy, Math, Linear Algebra|
-| [Lesson 6](./lesson06)| W | 4/6/2016|Exloratory Data Analysis, Pandas, Matplotlib|
+| [Lesson 6](./lesson06)| W | 4/6/2016|Numpy, Pandas, Matplotlib|
 |               Lesson 7| M |4/11/2016|Intro ML, Gradient Descent, Linear Regression|
 |               Lesson 8| W |4/13/2016|TBD|
 |               Lesson 9| M |4/18/2016|TBD|
@@ -37,6 +41,11 @@ http://goo.gl/forms/85T0wDN22a
 |              Lesson 20| W |5/25/2016|TBD|
 |              Lesson 21| W | 6/1/2016|TBD|
 |              Lesson 22| M | 6/6/2016|TBD|
+
+#### Homework Schedule
+
+- [Homework 1](./homework/homework1.ipynb) (Python Exercises) | Assigned 3/30 | Due 4/6
+- [Homework 2](https://github.com/brandon-rhodes/pycon-pandas-tutorial/blob/master/Exercises-1.ipynb) (Brandon Rhodes Pandas Tutorial Exercise 1) | Assigned 4/6 | Due 4/11
 
 #### Recommended Textbooks
 
