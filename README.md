@@ -15,6 +15,11 @@ http://goo.gl/forms/85T0wDN22a
 
 http://goo.gl/forms/OvpmnpvOPM
 
+#### Homework Schedule
+
+- [Homework 1](./homework/homework1.ipynb) (Python Exercises) | Assigned 3/30 | Due 4/6
+- [Homework 2](./homework/homework2.ipynb) (Brandon Rhodes Pandas Tutorial Exercise 1) | Assigned 4/6 | Due 4/11
+
 #### Lesson Schedule
 
 |Class                  |Day|Date     |Lesson                                                          |
@@ -41,11 +46,6 @@ http://goo.gl/forms/OvpmnpvOPM
 |              Lesson 20| W |5/25/2016|TBD|
 |              Lesson 21| W | 6/1/2016|TBD|
 |              Lesson 22| M | 6/6/2016|TBD|
-
-#### Homework Schedule
-
-- [Homework 1](./homework/homework1.ipynb) (Python Exercises) | Assigned 3/30 | Due 4/6
-- [Homework 2](./homework/homework2.ipynb) (Brandon Rhodes Pandas Tutorial Exercise 1) | Assigned 4/6 | Due 4/11
 
 #### Recommended Textbooks
 
