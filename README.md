@@ -30,8 +30,8 @@ http://goo.gl/forms/OvpmnpvOPM
 | [Lesson 4](./lesson04)| W |3/30/2016|Python, Intro Numpy|
 | [Lesson 5](./lesson05)| M | 4/4/2016|Numpy, Math, Linear Algebra|
 | [Lesson 6](./lesson06)| W | 4/6/2016|Numpy, Pandas, Matplotlib|
-|               Lesson 7| M |4/11/2016|Intro ML, Gradient Descent, Linear Regression|
-|               Lesson 8| W |4/13/2016|TBD|
+|               Lesson 7| M |4/11/2016|Pandas, Matplotlib|
+|               Lesson 8| W |4/13/2016|Intro ML, Gradient Descent, Linear Regression|
 |               Lesson 9| M |4/18/2016|TBD|
 |              Lesson 10| W |4/20/2016|TBD|
 |              Lesson 11| M |4/25/2016|TBD|
