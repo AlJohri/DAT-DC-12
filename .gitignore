@@ -69,3 +69,7 @@ target/
 
 # RevealJS Slides
 *.slides.html
+
+data/titles.csv
+data/cast.csv
+data/release_dates.csv
