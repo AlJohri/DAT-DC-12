@@ -45,7 +45,7 @@ http://goo.gl/forms/OvpmnpvOPM
 #### Homework Schedule
 
 - [Homework 1](./homework/homework1.ipynb) (Python Exercises) | Assigned 3/30 | Due 4/6
-- [Homework 2](https://github.com/brandon-rhodes/pycon-pandas-tutorial/blob/master/Exercises-1.ipynb) (Brandon Rhodes Pandas Tutorial Exercise 1) | Assigned 4/6 | Due 4/11
+- [Homework 2](./homework/homework2.ipynb) (Brandon Rhodes Pandas Tutorial Exercise 1) | Assigned 4/6 | Due 4/11
 
 #### Recommended Textbooks
 
