@@ -93,3 +93,8 @@ Wes McKinney, Creator of Pandas
 </tr>
 
 </table>
+
+Python Learning Resources:
+- [Code Academy](https://www.codecademy.com/learn/python)
+- [Think Python 2](http://greenteapress.com/thinkpython2/html/index.html)
+- [Learn Python the Hard Way](http://learnpythonthehardway.org/book/index.html)
