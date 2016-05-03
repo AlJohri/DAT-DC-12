@@ -33,10 +33,10 @@ http://goo.gl/forms/OvpmnpvOPM
 | [Lesson 6](./lesson06)| W | 4/6/2016|Numpy, Pandas, Matplotlib|
 |               Lesson 7| M |4/11/2016|Pandas, Matplotlib|
 |               Lesson 8| W |4/13/2016|Intro ML, Gradient Descent, Linear Regression|
-|               Lesson 9| M |4/18/2016|TBD|
-|              Lesson 10| W |4/20/2016|TBD|
-|              Lesson 11| M |4/25/2016|TBD|
-|              Lesson 12| W |4/27/2016|TBD|
+|               Lesson 9| M |4/18/2016|ML, LinReg|
+|              Lesson 10| W |4/20/2016|LinReg, Regex, APIs|
+|              Lesson 11| M |4/25/2016|Using Models, LogReg, Kobe, Scraping|
+|              Lesson 12| W |4/27/2016|LogReg, Model Evaluation|
 |              Lesson 13| M | 5/2/2016|TBD|
 |              Lesson 14| W | 5/4/2016|TBD|
 |              Lesson 15| M | 5/9/2016|TBD|
