@@ -37,16 +37,16 @@ http://goo.gl/forms/OvpmnpvOPM
 |              Lesson 10| W |4/20/2016|LinReg, Regex, APIs|
 |              Lesson 11| M |4/25/2016|Using Models, LogReg, Kobe, Scraping|
 |              Lesson 12| W |4/27/2016|LogReg, Model Evaluation|
-|              Lesson 13| M | 5/2/2016|TBD|
-|              Lesson 14| W | 5/4/2016|TBD|
-|              Lesson 15| M | 5/9/2016|TBD|
-|              Lesson 16| W |5/11/2016|TBD|
-|              Lesson 17| M |5/16/2016|TBD|
-|              Lesson 18| W |5/18/2016|TBD|
-|              Lesson 19| M |5/23/2016|TBD|
-|              Lesson 20| W |5/25/2016|TBD|
-|              Lesson 21| W | 6/1/2016|TBD|
-|              Lesson 22| M | 6/6/2016|TBD|
+|              Lesson 13| M | 5/2/2016|Advanced Model Evaluation|
+|              Lesson 14| W | 5/4/2016|KNN, Kaggle Competition|
+|              Lesson 15| M | 5/9/2016|Project Presentations|
+|              Lesson 16| W |5/11/2016|Decision Trees, Ensemble Methods, Random Forests|
+|              Lesson 17| M |5/16/2016|Basic NLP, Vectorization, Naive Bayes|
+|              Lesson 18| W |5/18/2016|NLP with NLTK and Spacy|
+|              Lesson 19| M |5/23/2016|Intro Unsupervised Methods, PCA, K Means Clustering|
+|              Lesson 20| W |5/25/2016|Project Presentations Day 1|
+|              Lesson 21| W | 6/1/2016|Project Presentations Day 2|
+|              Lesson 22| M | 6/6/2016|mapReduce, spark|
 
 #### [Admin Only] Course Tracker
 
